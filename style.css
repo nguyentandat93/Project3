@@ -108,6 +108,11 @@
     	background: none !important;
     }
 
+	.image-gallery h2, .image-gallery p {
+		padding: 0 !important;
+		text-align: center;
+	}
+
 	.footer {
 		background: none !important;
 		padding-top: 0 !important;
