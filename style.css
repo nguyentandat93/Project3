@@ -67,6 +67,7 @@
 
     nav {
     	background-color: #556370 !important;
+		padding: 0 20px !important;
     }
 
     nav ul li a {
@@ -155,7 +156,7 @@
 
 	.banner {
 	    background-image: none!important;
-	    max-height: 40vh !important;
+	    min-height: 40vh !important;
 	}
 
 	.title {
